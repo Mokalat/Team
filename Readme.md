@@ -18,5 +18,5 @@
 
 
 
-This is a normal paragraph: git 한번만 로그인 하면 계속 이어지는건가??
+ git 한번만 로그인 하면 계속 이어지는건가??
  </details>
