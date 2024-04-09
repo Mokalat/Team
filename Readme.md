@@ -6,4 +6,4 @@
 4.  git push origin main : 원본 레피지토리의 메인 브렌치에 현재 저장된 내용을 업로드한다.
 
 6. add . 를 먼저 쓰고 commit -m "test"를 하고 push 를 한다
- *  . 은 all 전체를 의미한다
+ ps:  . 은 all 전체를 의미한다
