@@ -16,4 +16,7 @@
 6. 깃에 저장 방법 : git add . 를 먼저 쓰고 git commit -m "test"를 하고 git push 를 한다 <br/>
  ps:  . 은 all 전체를 의미한다
 
+
+
+This is a normal paragraph: git 한번만 로그인 하면 계속 이어지는건가??
  </details>
